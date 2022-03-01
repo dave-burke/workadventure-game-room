@@ -203,7 +203,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"WhyFail"
+                         "value":"Fishbowl"
                         }, 
                         {
                          "name":"jitsiRoomAdminTag",
@@ -211,14 +211,9 @@
                          "value":"speaker"
                         }, 
                         {
-                         "name":"jitsiTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
                          "name":"meetingRoomLabel",
                          "type":"string",
-                         "value":"Why Fail"
+                         "value":"Fishbowl"
                         }, 
                         {
                          "name":"openWebsite",
