@@ -155,7 +155,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/www.nytimes.com\/games\/wordle\/index.html"
+                         "value":"https:\/\/vue-wordle.netlify.app\/"
                         }],
                  "type":"tilelayer",
                  "visible":true,
